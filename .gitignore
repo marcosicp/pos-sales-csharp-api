@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin/
+/obj/
+/.vs/
+/.vscode/
+/Backup
+/obj
+/UpgradeLog.htm
+.vs/config/applicationhost.config
+ApiTesisConstruccion.csproj.user
+appsettings.json
+docker-hauora.bat
